@@ -1,7 +1,6 @@
 ## Conteúdo
 
 - [Sobre O Projeto](#Sobre-o-projeto)
-  - [**Login com Google**](#login-com-google)
   - [Conteúdo](#conteúdo)
   - [Getting Started](#getting-started)
   - [**Testar o Projeto:**](#testar-o-projeto)
